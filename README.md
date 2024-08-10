@@ -58,7 +58,7 @@ Before running the application, ensure you have Python installed on your machine
 
 ## Code Overview
 
-### Main Python Script (`app.py`)
+### Main Python Script (`main.py`)
 
 - **Password Generation Function**: 
   - Generates a password with a specified length using a mix of characters.
@@ -69,7 +69,7 @@ Before running the application, ensure you have Python installed on your machine
   - Inserts the name and generated password into the database.
   - Deletes all records from the database when the reset option is selected.
 
-### SQLite3 Database (`passwords.db`)
+### SQLite3 Database (`users.db`)
 
 - The database consists of a single table named `passwords`, which stores the following:
   - **ID**: An auto-incremented primary key.
