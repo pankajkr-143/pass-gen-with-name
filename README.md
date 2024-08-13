@@ -85,6 +85,19 @@ Before running the application, ensure you have Python installed on your machine
 2. **Database Record**:
    - Name: "example"
    - Password: "A8d#kLm7B2!p"
+  
+## Contact with me for more works
+
+👨‍💻 All of my projects are available at https://mackystech.vercel.app/
+
+📝 I regularly write articles on https://www.linkedin.com/in/pankaj-kumar-647080266/
+
+💬 Ask me about Android , MERN , Flutter
+
+📫 How to reach me kumarpankaj85894@gmail.com
+
+📄 Know about my experiences https://www.linkedin.com/in/pankaj-kumar-647080266/
+
 
 ## Contributing
 
